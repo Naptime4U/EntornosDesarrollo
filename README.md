@@ -21,4 +21,4 @@ El codigo es
 
 [google](www.google.es)
 
-![Image](https://pbs.twimg.com/media/F6knlUDW0AAw9aP?format=jpg&name=large)
+![Image](https://pbs.twimg.com/media/F5ldReNW4AA-jGa?format=png&name=small)
